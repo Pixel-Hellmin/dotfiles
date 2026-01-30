@@ -10,7 +10,9 @@ set wildmenu
 set wildignore+=*/node_modules/*
 set tabstop=4 softtabstop=4
 set shiftwidth=4
-set expandtab
+set listchars=eol:$,tab:>-<,trail:~,extends:>,precedes:<,space:^ " use >:set list< to see these
+set noexpandtab " this means we use real tabs instead of spaces
+
 set smartindent
 set noerrorbells
 set wrap

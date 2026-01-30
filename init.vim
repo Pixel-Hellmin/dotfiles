@@ -30,7 +30,7 @@ command! Grep lua require'tools'.Grep()
 command! RunScript lua require'tools'.RunScript()
 
 :let mapleader = "\<Space>"
-:map <F5> :silent make!\|copen<CR>
+:map <F5> :silent make!\|copen 15<CR>
 ":map <F5> :Build<CR>
 :map <F12> :e ~/AppData/Local/nvim/init.vim<CR>
 :map <Leader>j :b#<CR>
