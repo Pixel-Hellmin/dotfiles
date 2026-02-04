@@ -1,5 +1,5 @@
 hi Normal ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
-hi NonText ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
+hi NonText ctermfg=242 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
 hi ColorColumn ctermfg=233 ctermbg=214 cterm=reverse guifg=#121212 guibg=#ffaf00 gui=reverse
 hi Cursor ctermfg=208 ctermbg=none cterm=reverse guifg=#ff8700 guibg=#000000 gui=reverse
 hi CursorColumn ctermfg=233 ctermbg=214 cterm=reverse guifg=#121212 guibg=#ffaf00 gui=reverse
